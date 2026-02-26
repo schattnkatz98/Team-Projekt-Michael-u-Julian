@@ -22,17 +22,38 @@
             <mxPoint x="440" y="78.28" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wCY-Bhg8_WMkkLtGhJkU-5" edge="1" parent="1" source="ituyp1-SsLrf4EizL8xG-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="wCY-Bhg8_WMkkLtGhJkU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wCY-Bhg8_WMkkLtGhJkU-12" edge="1" parent="1" source="ituyp1-SsLrf4EizL8xG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wCY-Bhg8_WMkkLtGhJkU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ituyp1-SsLrf4EizL8xG-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;div&gt;eingabe&lt;/div&gt;&lt;div&gt;ui&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="120" x="250" y="110" as="geometry" />
         </mxCell>
         <mxCell id="wCY-Bhg8_WMkkLtGhJkU-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="builds anzeigen" vertex="1">
           <mxGeometry height="80" width="120" x="440" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="wCY-Bhg8_WMkkLtGhJkU-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="wCY-Bhg8_WMkkLtGhJkU-7" edge="1" parent="1" source="wCY-Bhg8_WMkkLtGhJkU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="wCY-Bhg8_WMkkLtGhJkU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wCY-Bhg8_WMkkLtGhJkU-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="builds berechnen" vertex="1">
           <mxGeometry height="80" width="120" x="440" y="190" as="geometry" />
         </mxCell>
         <mxCell id="wCY-Bhg8_WMkkLtGhJkU-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
           <mxGeometry height="30" width="60" x="340" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="wCY-Bhg8_WMkkLtGhJkU-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="aktuelle legosteine" vertex="1">
+          <mxGeometry height="80" width="120" x="650" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="wCY-Bhg8_WMkkLtGhJkU-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="580" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="wCY-Bhg8_WMkkLtGhJkU-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="380" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wCY-Bhg8_WMkkLtGhJkU-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="builds löschen" vertex="1">
+          <mxGeometry height="80" width="120" x="250" y="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

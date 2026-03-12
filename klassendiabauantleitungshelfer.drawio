@@ -127,10 +127,10 @@
         <mxCell id="fIaLyGa0L4landPyppCJ-16" parent="fIaLyGa0L4landPyppCJ-14" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" value="RName:" vertex="1">
           <mxGeometry height="26" width="160" y="52" as="geometry" />
         </mxCell>
-        <mxCell id="fIaLyGa0L4landPyppCJ-21" parent="fIaLyGa0L4landPyppCJ-14" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" value="result: string" vertex="1">
+        <mxCell id="fIaLyGa0L4landPyppCJ-21" parent="fIaLyGa0L4landPyppCJ-14" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" value="result: int" vertex="1">
           <mxGeometry height="26" width="160" y="78" as="geometry" />
         </mxCell>
-        <mxCell id="fIaLyGa0L4landPyppCJ-20" parent="fIaLyGa0L4landPyppCJ-14" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" value="yield:" vertex="1">
+        <mxCell id="fIaLyGa0L4landPyppCJ-20" parent="fIaLyGa0L4landPyppCJ-14" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" value="yield: int" vertex="1">
           <mxGeometry height="26" width="160" y="104" as="geometry" />
         </mxCell>
         <mxCell id="fIaLyGa0L4landPyppCJ-17" parent="fIaLyGa0L4landPyppCJ-14" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" value="" vertex="1">

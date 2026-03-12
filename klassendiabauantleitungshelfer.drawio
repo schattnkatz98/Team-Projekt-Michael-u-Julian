@@ -269,7 +269,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G6ALYOfCZwcZDe0r8IKV-40" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" value="TestSystem" vertex="1">
-          <mxGeometry height="140" width="160" x="630" y="-167" as="geometry">
+          <mxGeometry height="117" width="160" x="630" y="-167" as="geometry">
             <mxRectangle height="26" width="160" x="230" y="140" as="alternateBounds" />
           </mxGeometry>
         </mxCell>

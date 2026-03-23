@@ -85,12 +85,6 @@
         <mxCell id="_s3w5HZjQjAVlC80ADVO-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="RComponents" vertex="1">
           <mxGeometry height="60" width="120" x="590" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="_s3w5HZjQjAVlC80ADVO-10" edge="1" parent="1" source="_s3w5HZjQjAVlC80ADVO-8" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="vtrfVu3j7u2sAkscKfh8-28" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="620" y="210" as="sourcePoint" />
-            <mxPoint x="670" y="160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_s3w5HZjQjAVlC80ADVO-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="ID" vertex="1">
           <mxGeometry height="60" width="90" x="830" y="270" as="geometry" />
         </mxCell>
@@ -102,6 +96,21 @@
         </mxCell>
         <mxCell id="_s3w5HZjQjAVlC80ADVO-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="n" vertex="1">
           <mxGeometry height="15" width="30" x="590" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3w5HZjQjAVlC80ADVO-21" parent="1" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;rotation=0;" value="besteht aus" vertex="1">
+          <mxGeometry height="60" width="100" x="600" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3w5HZjQjAVlC80ADVO-23" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="vtrfVu3j7u2sAkscKfh8-28" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="650" y="190" as="sourcePoint" />
+            <mxPoint x="650" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_s3w5HZjQjAVlC80ADVO-24" edge="1" parent="1" source="_s3w5HZjQjAVlC80ADVO-8" style="endArrow=none;html=1;rounded=0;entryX=0.52;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="_s3w5HZjQjAVlC80ADVO-21" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="650" y="310" as="sourcePoint" />
+            <mxPoint x="670" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
